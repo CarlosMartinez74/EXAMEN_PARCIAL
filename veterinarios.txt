@@ -1,0 +1,14 @@
+ID Veterinario: 2
+Nombres: sfsfsf
+Apellidos: sfsfsf
+Sexo: MASCULINO
+Fecha de Nacimiento: 2024-10-06
+Grado: TITULADO
+
+ID Veterinario: 6
+Nombres: raul
+Apellidos: asasas
+Sexo: FEMENINO
+Fecha de Nacimiento: 2024-10-13
+Grado: EGRESADO
+
